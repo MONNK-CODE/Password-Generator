@@ -19,7 +19,3 @@ My Password Generator is a simple yet powerful Python script that helps users cr
 3. **Receive Password:** The script outputs a securely generated password.
 4. **Generate More:** Optionally generate more passwords or exit the application.
 
-
-## License
-
-This project is licensed under the MIT License.
