@@ -11,7 +11,7 @@ def generate_password(length):
 
     while True:
         if length < 4:
-            print("Error: Password length must be at least 4 characters.")
+            print("Error: Password length must be at least 4 characters. Please try again.")
             return None
 
         password = random.choice(lowercase_letters) + random.choice(uppercase_letters) + random.choice(digits) + random.choice(special_characters)
